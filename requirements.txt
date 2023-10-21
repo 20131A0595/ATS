@@ -1,7 +1,7 @@
 boto3==1.28.40
 fastapi==0.101.1
 pdfplumber==0.10.2
-pipeline=0.1.0
+pipeline==0.1.0
 protobuf==3.19.6
 PyPDF2==3.0.1
 Requests==2.31.0
